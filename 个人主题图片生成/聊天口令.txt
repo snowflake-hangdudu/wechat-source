@@ -8,21 +8,9 @@ GitHub：https://github.com/yang0/handraw-style
 https://chatgpt.com/library?file_id=libfile_9381f587c24881918a321f4bf1fc14e8&account_id=personal
 
 【角色配置】
-角色：娜美（成年）
-图片数量：20张，可调整
-图片比例：竖版 2:3
 系列类型：女性角色个人主题壁纸
 
-【画风分配】
-FD-026 Personal Edition：10张
-FH-005 French Café Sketch：3张
-FH-008 Japanese Magazine Essay：3张
-和服主题：2张
-浮世绘主题：2张
 
-【主画风要求】
-以 FD-026 为核心。
-沿用我提供的参考图片，而非仅使用原始风格编号。
 
 保留：
 - 纤细自然的手绘线条
@@ -42,8 +30,6 @@ FH-008 Japanese Magazine Essay：3张
 
 【执行流程】
 第一步：检查 Skill、个人专场规范和参考图是否可以读取。
-第二步：先输出完整的20张主题分配表。
-第三步：等待我确认。
 第四步：每次生成3张独立图片。
 第五步：检查角色、画风、人体比例和动作。
 第六步：只重做不合格图片，合格图片保留。
